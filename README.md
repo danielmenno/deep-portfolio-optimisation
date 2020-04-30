@@ -8,7 +8,7 @@ Link to project proposal:
 @daniel please add you overleaf link here
 
 ### How to edit this README.md file
-Here you'll find an usefull cheat sheet explaining all you need for this README.md file.  
+Here you'll find an usefull cheat sheet explaining all you need to know for this README.md file.  
 Link to markdown cheat sheet:  
 https://bit.ly/2VQ7REv
 
