@@ -4,7 +4,7 @@ Link to video:
 https://bit.ly/3f3RAmZ
 
 # Project Proposal (Deep Portfolio Optimisation)
-Link to project proposal:  
+Link to project proposal:  https://www.overleaf.com/9854394956sdddmrxbbgpg
 @daniel please add you overleaf link here
 
 ### How to edit this README.md file
