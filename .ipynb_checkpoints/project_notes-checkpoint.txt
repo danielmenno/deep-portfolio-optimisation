@@ -1,0 +1,31 @@
+Project:
+
+IDEAS
+- Experiment with different utility functions
+- Maybe try big indices (S&P, FTSE,...)
+- Transaction costs
+- Non-markov setting / Rough volatility models
+- Multi-dim real dependency structures
+- Multi agent systems (agents trade a produce price processes) (Diff. games, mean field games, etc...)
+
+
+QUESTIONS:
+- What dynamics describe multiple price processes? Can we just turn alpha into a vector?
+- Are there analytical solutions for multiple price processes?
+- If not, how can we validate our solutions?
+---> Closed form might exist for BS
+---> Compare to mean/variance optimisation as benchmark
+- Other models instead of Merton/Heston model?
+- How does one generated (anti)-correlated price processes?
+- Can we use real world data? Where would one find such data?
+---> Yahoo finance (?) - Steven
+- What are these dummy hedgeeval variables?
+
+
+Meeting #1:
+- Give update one contacting other members
+- Write research proposal/plan outline (first steps)
+- Steven set up git
+
+Q&A:
+- Find portfolio by maximisin
