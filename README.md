@@ -6,7 +6,7 @@ Link to meeting with Wahid: https://ethz.zoom.us/j/98955475225
 Lint to meeting for group members only (i.e. without Wahid): https://ethz.zoom.us/j/99299757670  
 
 ### Recordings
-08/05/2020: https://bit.ly/3dlQJMK
+08/05/2020: https://bit.ly/3dlQJMK  
 12/05/2020: https://youtu.be/_epXxHq5ai8  
 
 # Miscellaneous
