@@ -7,6 +7,7 @@ Lint to meeting for group members only (i.e. without Wahid): https://ethz.zoom.u
 
 ### Recordings
 08/05/2020: https://bit.ly/3dlQJMK
+12/05/2020: https://youtu.be/_epXxHq5ai8  
 
 # Miscellaneous
 ### How to edit this README.md file
