@@ -1,0 +1,10 @@
+- Mean-variance optimisation
+- Penalising variance/risk
+- What happens if you know more about the Brownian Motion 
+- Model more information than “no information”
+- Control over simulation of BM
+- Simulate BM at the beginning, and process later
+- Second vector that gives more information
+- Extreme case -> give it the increment
+- Drift changing over time
+- Tell Steven about Youtube
