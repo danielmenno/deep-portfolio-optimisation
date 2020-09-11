@@ -1,9 +1,0 @@
-Meeting 02/06
-
-- Implement baseline
-- insider: not +/-, but "extra info"
-- feed correlated vector to price process as input
-- Rho will tell you how much extra info you have
-- Maybe later: transaction costs
-- Market impact?
-- Time delay between decision and execution
